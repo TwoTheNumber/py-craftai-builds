@@ -15,3 +15,6 @@ W, A, S, D to move
 space to jump
 left click to place
 right click to destroy (i forget this often)
+
+rd-132328 will be coming soon!
+(making the moving entities/Mob will be pain)
